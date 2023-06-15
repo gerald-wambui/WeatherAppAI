@@ -1,0 +1,2 @@
+# WeatherAppAI
+uses AI
